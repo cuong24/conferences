@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a74d2d24-29c9-4f5f-b487-c5d751f378d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cuong24/repository/SpeakerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cuong24/service/SpeakerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cuong24/service/SpeakerServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cuong24/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cuong24/repository/HibernateSpeakerRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cuong24/repository/HibernateSpeakerRepositoryImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="a74d2d24-29c9-4f5f-b487-c5d751f378d4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +93,7 @@
       <workItem from="1680690798589" duration="6000" />
       <workItem from="1680690808828" duration="1152000" />
       <workItem from="1680692573986" duration="1100000" />
-      <workItem from="1681626548810" duration="3786000" />
+      <workItem from="1681626548810" duration="4281000" />
     </task>
     <servers />
   </component>

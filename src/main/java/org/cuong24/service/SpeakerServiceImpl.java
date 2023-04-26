@@ -10,8 +10,8 @@ public class SpeakerServiceImpl implements SpeakerService {
 
     private SpeakerRepository repository;
 
-    public SpeakerRepository getRepository() {
-        return repository;
+    public SpeakerServiceImpl (SpeakerRepository speakerRepository) {
+        repository = speakerRepository;
     }
 
     public void setRepository(SpeakerRepository repository) {
